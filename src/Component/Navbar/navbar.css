@@ -1,0 +1,8 @@
+ul li a.active{
+    background: none !important;
+    color: red !important;
+    text-decoration: underline;
+}
+ul li a:hover{
+    background: none !important;
+}

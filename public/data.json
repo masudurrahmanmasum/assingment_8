@@ -1,0 +1,137 @@
+
+[
+  {
+    "image": "https://i.ibb.co/1GTxJ7b/Clothing.png",
+    "id" : 1,
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "body" : "Clothing choices reflect personal style and cultural diversity, making them an integral part of our lives. In education, appropriate attire promotes professionalism, while also allowing students to express their individuality. Dress codes strike a balance between self-expression and maintaining a conducive learning environment.Clothing is not just about fashion; it's a form of self-expression and cultural identity. In education, dress codes promote equality and minimize distractions, ensuring students focus on learning. Additionally, exploring different clothing styles can foster creativity and self-confidence, enriching the educational experience.",
+    "text_color": "#79C23F",
+    "bg_color": "#79c23f26",
+    "btn_bg" : "#79c23f33",
+    "price": 50
+  },
+  {
+    "image": "https://i.ibb.co/4tMJPrd/Education.png",
+    "id" : 2,
+    "title": "Good education",
+    "category": "Education",
+    "body" : "Education is the key to unlocking opportunities and fulfilling potential. It empowers individuals to broaden their horizons, cultivate critical thinking skills, and contribute to society. Lifelong learning is essential, transcending age and background, enriching our lives and shaping the future.Education is the cornerstone of personal growth and societal progress. It equips individuals with knowledge and skills, empowering them to navigate an ever-changing world. Lifelong learning also promotes adaptability and resilience, enabling us to thrive in diverse environments and contribute to a more enlightened society.",
+    "text_color": "#FF444A",
+    "bg_color": "#ff444a26",
+    "btn_bg" : "#ff444a33",
+    "price": 25
+  },
+  {
+    "image": "https://i.ibb.co/w7WLhzB/Food.png",
+    "id" : 3,
+    "title": "Help Homeless Shelter",
+    "category": "Food",
+    "body" : "Food is more than sustenance; it's a cultural bridge and a cornerstone of well-being. A balanced diet fuels our bodies and minds, influencing our productivity and mood. It's essential to foster healthy eating habits from a young age, ensuring a brighter, healthier future for generations to come.Food transcends mere sustenance; it's a gateway to diverse cultures and shared experiences. A balanced diet fuels not only our bodies but also our connections with others. Sharing meals fosters social bonds and cultural understanding, promoting harmony and well-being within our communities and globally.",
+    "text_color": "#F87147",
+    "bg_color": "#f8714726",
+    "btn_bg" : "#f8714733",
+    "price": 75
+  },
+  {
+    "image": "https://i.ibb.co/6nsvcsv/Health.png",
+    "id" : 4,
+    "title": "Clean water for children",
+    "category": "Health",
+    "body" : "Good health underpins every aspect of our lives. Regular exercise, balanced nutrition, and mental well-being are pillars of a healthy lifestyle. Prioritizing preventive care and adopting positive habits can reduce the burden of illness, enabling individuals to lead fulfilling, active lives and contribute to their communities.Optimal health is the foundation for a fulfilling life. Regular exercise strengthens the body and mind, reducing the risk of chronic diseases. Alongside nutrition, mental well-being plays a vital role in overall health. Prioritizing mental health and seeking support when needed are essential steps towards a vibrant, balanced life.",
+    "text_color": "#0052FF",
+    "bg_color": "#0052ff26",
+    "btn_bg" : "#0052ff33",
+    "price": 40
+  },
+  {
+    "image": "https://i.ibb.co/Tvwk4TM/Education2.png",
+    "id" : 5,
+    "title": "Support Medical Research",
+    "category": "Education",
+    "body" : "Education is the key to unlocking opportunities and fulfilling potential. It empowers individuals to broaden their horizons, cultivate critical thinking skills, and contribute to society. Lifelong learning is essential, transcending age and background, enriching our lives and shaping the future.Education is the cornerstone of personal growth and societal progress. It equips individuals with knowledge and skills, empowering them to navigate an ever-changing world. Lifelong learning also promotes adaptability and resilience, enabling us to thrive in diverse environments and contribute to a more enlightened society.",
+    "text_color": "#FF444A",
+    "bg_color": "#ff444a26",
+    "btn_bg" : "#ff444a33",
+    "price": 100
+  },
+  {
+    "image": "https://i.ibb.co/gzXRx2K/Food1.png",
+    "id" : 6,
+    "title": "Plant Trees for a Greener Planet",
+    "category": "Food",
+    "body" : "Food is more than sustenance; it's a cultural bridge and a cornerstone of well-being. A balanced diet fuels our bodies and minds, influencing our productivity and mood. It's essential to foster healthy eating habits from a young age, ensuring a brighter, healthier future for generations to come.Food transcends mere sustenance; it's a gateway to diverse cultures and shared experiences. A balanced diet fuels not only our bodies but also our connections with others. Sharing meals fosters social bonds and cultural understanding, promoting harmony and well-being within our communities and globally.",
+    "text_color": "#F87147",
+    "bg_color": "#f8714726",
+    "btn_bg" : "#f8714733",
+    "price": 30
+  },
+  {
+    "image": "https://i.ibb.co/BthcVZ3/Health3.png",
+    "id" : 7,
+    "title": "Feed the Hungry",
+    "category": "Health",
+    "body" : "Good health underpins every aspect of our lives. Regular exercise, balanced nutrition, and mental well-being are pillars of a healthy lifestyle. Prioritizing preventive care and adopting positive habits can reduce the burden of illness, enabling individuals to lead fulfilling, active lives and contribute to their communities.Optimal health is the foundation for a fulfilling life. Regular exercise strengthens the body and mind, reducing the risk of chronic diseases. Alongside nutrition, mental well-being plays a vital role in overall health. Prioritizing mental health and seeking support when needed are essential steps towards a vibrant, balanced life.",
+    "text_color": "#0052FF",
+    "bg_color": "#0052ff26",
+    "btn_bg" : "#0052ff33",
+    "price": 20
+  },
+  {
+    "image": "https://i.ibb.co/mS1dh0h/clothing3.png",
+    "id" : 8,
+    "title": "Support Art and Culture",
+    "category": "Clothing",
+    "body" : "Clothing choices reflect personal style and cultural diversity, making them an integral part of our lives. In education, appropriate attire promotes professionalism, while also allowing students to express their individuality. Dress codes strike a balance between self-expression and maintaining a conducive learning environment.Clothing is not just about fashion; it's a form of self-expression and cultural identity. In education, dress codes promote equality and minimize distractions, ensuring students focus on learning. Additionally, exploring different clothing styles can foster creativity and self-confidence, enriching the educational experience.",
+    "text_color": "#79C23F",
+    "bg_color": "#79c23f26",
+    "btn_bg" : "#79c23f33",
+    "price": 60
+  },
+  {
+    "image": "https://i.ibb.co/WBPrRtQ/Food2.png",
+    "id" : 9,
+    "title": "Donate to Disaster Relief Fund",
+    "category": "Food",
+    "body" : "Food is more than sustenance; it's a cultural bridge and a cornerstone of well-being. A balanced diet fuels our bodies and minds, influencing our productivity and mood. It's essential to foster healthy eating habits from a young age, ensuring a brighter, healthier future for generations to come.Food transcends mere sustenance; it's a gateway to diverse cultures and shared experiences. A balanced diet fuels not only our bodies but also our connections with others. Sharing meals fosters social bonds and cultural understanding, promoting harmony and well-being within our communities and globally.",
+    "text_color": "#F87147",
+    "bg_color": "#f8714726",
+    "btn_bg" : "#f8714733",
+    "price": 50
+  },
+  {
+    "image": "https://i.ibb.co/KqTRcbX/Education1.png",
+    "id" : 10,
+    "title": "Empower Women Entrepreneurs",
+    "category": "Education",
+    "body" : "Education is the key to unlocking opportunities and fulfilling potential. It empowers individuals to broaden their horizons, cultivate critical thinking skills, and contribute to society. Lifelong learning is essential, transcending age and background, enriching our lives and shaping the future.Education is the cornerstone of personal growth and societal progress. It equips individuals with knowledge and skills, empowering them to navigate an ever-changing world. Lifelong learning also promotes adaptability and resilience, enabling us to thrive in diverse environments and contribute to a more enlightened society.",
+    "text_color": "#FF444A",
+    "bg_color": "#ff444a26",
+    "btn_bg" : "#ff444a33",
+    "price": 35
+  },
+  {
+    "image": "https://i.ibb.co/RYzqTj3/clothing2.png",
+    "id" : 11,
+    "title": "Support Youth Sports",
+    "category": "Clothing",
+    "body" : "Clothing choices reflect personal style and cultural diversity, making them an integral part of our lives. In education, appropriate attire promotes professionalism, while also allowing students to express their individuality. Dress codes strike a balance between self-expression and maintaining a conducive learning environment.Clothing is not just about fashion; it's a form of self-expression and cultural identity. In education, dress codes promote equality and minimize distractions, ensuring students focus on learning. Additionally, exploring different clothing styles can foster creativity and self-confidence, enriching the educational experience.",
+    "text_color": "#79C23F",
+    "bg_color": "#79c23f26",
+    "btn_bg" : "#79c23f33",
+    "price": 45
+  },
+  {
+    "image": "https://i.ibb.co/HGsB6Gs/Health1.png",
+    "id" : 12,
+    "title": "Protect Endangered Species",
+    "category": "Health",
+    "body" : "Good health underpins every aspect of our lives. Regular exercise, balanced nutrition, and mental well-being are pillars of a healthy lifestyle. Prioritizing preventive care and adopting positive habits can reduce the burden of illness, enabling individuals to lead fulfilling, active lives and contribute to their communities.Optimal health is the foundation for a fulfilling life. Regular exercise strengthens the body and mind, reducing the risk of chronic diseases. Alongside nutrition, mental well-being plays a vital role in overall health. Prioritizing mental health and seeking support when needed are essential steps towards a vibrant, balanced life.",
+    "text_color": "#0052FF",
+    "bg_color": "#0052ff26",
+    "btn_bg" : "#0052ff33",
+    "price": 55
+  }
+]
+
+  
